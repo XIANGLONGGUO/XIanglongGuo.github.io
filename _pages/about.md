@@ -25,12 +25,16 @@ Experience
 ======
 <ul>
 <li>
-<b>BeiHang University</b>, Sep. 2021 - Jun. 2025(expected)<br>
+<b>BeiHang University</b>, Sep. 2021 - Jun. 2025<br>
 <i>Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)</i><br>
 GPA: 88.6/100 Rank: 5/29<br>
 </li>
 
-
+<li>
+<b>BeiHang University</b>, Sep. 2025 - Jun. 2030(expected)<br>
+<i>PHD student</i><br>
+<br>
+</li>
 
 <li>
 <b>Samsung Inc. (SAIT - Samsung Advanced Institute of Technology)</b>, Jun. 2023 - Sep. 2023<br>
@@ -53,7 +57,7 @@ AI for science.<br>
 
 </ul>
 
-
+<!-- 
 Awards (partial)
 ======
 
@@ -83,4 +87,4 @@ Scholarship
 
 -    Discipline Competition Scholarship Special Prize and First prize
     (2023 & 2022)
-
+ -->
