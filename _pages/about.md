@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a senior undergraduate student in the School of Aeronautic Science and Engineering at Beijing University of Aeronautics and Astronautics.
+I am a PHD student in the School of Aeronautic Science and Engineering at Beijing University of Aeronautics and Astronautics.
 
 My research interests include:
 * Large Models and Multimodality
