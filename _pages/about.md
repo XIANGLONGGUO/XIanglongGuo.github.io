@@ -12,7 +12,6 @@ Welcome to my homepage!
 I am a senior undergraduate student in the School of Aeronautic Science and Engineering at Beijing University of Aeronautics and Astronautics.
 
 My research interests include:
-* Deep learning-based DIC network for local displacement and strain measurement.
 * Large Models and Multimodality
 * AI for science
 
